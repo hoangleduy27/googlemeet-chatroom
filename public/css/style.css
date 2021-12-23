@@ -39,6 +39,7 @@ a {
     background: var(--light-color);
     color: var(--dark-color-a);
     border: 0.5px;
+    border-radius: 5px;
     font-size: 17px;
 }
 
@@ -49,6 +50,7 @@ a {
     background: var(--light-color);
     color: var(--dark-color-a);
     border: 0.5px;
+    border-radius: 5px;
     font-size: 17px;
 }
 
@@ -79,6 +81,7 @@ a {
     background: var(--light-color);
     color: var(--dark-color-a);
     border: 0.5px;
+    border-radius: 5px;
     font-size: 17px;
     text-align: center;
     padding: 10px 15px;
